@@ -1,4 +1,4 @@
-![03](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/60103bb2-c943-49e9-a8c3-801ba522451b)# Financial-Modelling-V1
+Financial-Modelling-V1
 FM1 That i learn from CFAI
 
 ![02](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/a7f55426-3090-48f2-be61-6c2301c09cdb)
