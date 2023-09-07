@@ -1,7 +1,6 @@
 Financial-Modelling-V1
 #FM1 That i learn from CFAI
 
-![01](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/cea667c5-3cb5-4cb5-b84d-11900e7ff11a)
 
 ![01](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/0ef57915-ff66-497d-a4e8-132e2a7e9862)
 ![02](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/a7f55426-3090-48f2-be61-6c2301c09cdb)
