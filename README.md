@@ -1,8 +1,9 @@
 ![03](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/60103bb2-c943-49e9-a8c3-801ba522451b)# Financial-Modelling-V1
 FM1 That i learn from CFAI
-![02](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/a7f55426-3090-48f2-be61-6c2301c09cdb)
-![01](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/2f7f38f4-d2bb-4592-8295-650823add22d)
+
 ![03](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/d1c9f7ce-4d83-4542-96a3-04c17b89f711)
+![01](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/2f7f38f4-d2bb-4592-8295-650823add22d)
+![02](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/a7f55426-3090-48f2-be61-6c2301c09cdb)
 ![04](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/fcbc6d8d-ab9c-42b9-8aea-086fa619f187)
 ![05](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/4ee702de-b5f3-4b98-a99a-b5b780577164)
 ![06](https://github.com/DLSR-S/Financial-Modelling-V1/assets/78241176/9fd1cf55-5a09-4d48-8d48-93af40a278bf)
